@@ -1,2 +1,2 @@
 # MiChatbot
-Example Chatbot
+Ejemplo del Chatbot usando un servicio brindado por IBM.
